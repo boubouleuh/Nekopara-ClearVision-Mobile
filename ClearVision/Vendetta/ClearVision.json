@@ -518,7 +518,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/boubouleuh/Nekopara-ClearVision-Mobile/refs/heads/personal/ClearVision/Vendetta/pat.jpg",
-	"alpha": 0.4
+	"alpha": 1
     },
     "plus": {
         "version": 0,
